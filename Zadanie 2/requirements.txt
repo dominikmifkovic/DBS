@@ -1,0 +1,6 @@
+uvicorn
+fastapi
+psycopg2-binary
+tzdata
+typing
+pydantic-settings
